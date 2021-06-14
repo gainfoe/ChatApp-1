@@ -1,1 +1,1 @@
-Using MongoDB and Socket.io.
+Using the MongoDB and Socket.io.
